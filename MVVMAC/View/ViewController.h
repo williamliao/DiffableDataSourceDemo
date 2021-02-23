@@ -1,5 +1,5 @@
 //
-//  AppDelegate.h
+//  ViewController.h
 //  MVVMAC
 //
 //  Created by William on 2018/11/16.
@@ -8,9 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
-
-@property (strong, nonatomic) UIWindow *window;
+API_AVAILABLE(ios(13.0))
+@interface ViewController : UIViewController
 
 
 @end

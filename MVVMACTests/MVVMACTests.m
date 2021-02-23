@@ -2,8 +2,8 @@
 //  MVVMACTests.m
 //  MVVMACTests
 //
-//  Created by 雲端開發部-廖彥勛 on 2018/11/16.
-//  Copyright © 2018年 雲端開發部-廖彥勛. All rights reserved.
+//  Created by William on 2018/11/16.
+//  Copyright © 2018年 William. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
